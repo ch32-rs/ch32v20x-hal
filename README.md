@@ -1,3 +1,5 @@
+# DEPRECATED: this repo is deprecated in favor of [ch32-hal](https://github.com/ch32-rs/ch32-hal). Please migrate the code to it.
+
 # ch32v20x-hal
 
 This is a WIP implementation of the embedded-hal traits for the CH32V2 family of microcontrollers.
